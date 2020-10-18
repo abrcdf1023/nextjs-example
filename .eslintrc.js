@@ -26,5 +26,6 @@ module.exports = {
   rules: {
     "react/jsx-props-no-spreading": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-shadow": "off",
   }
 };
