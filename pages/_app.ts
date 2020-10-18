@@ -1,3 +1,5 @@
+import "react-app-polyfill/ie11";
+import "react-app-polyfill/stable";
 import 'styles/globals.css'
 import 'styles/nprogress.css'
 import App from 'App'
