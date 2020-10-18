@@ -1,4 +1,4 @@
-# NextJs with redux, i18n, cookie, eslint-airbnb, ts-node, jest example
+# NextJs with material-ui, redux, i18n, cookie, eslint-airbnb, ts-node, jest example
 
 You'll need create self signed certificate for develop. 
 
