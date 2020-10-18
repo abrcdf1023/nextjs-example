@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# local self signed certificate for develop
+devServer/certificate.crt
+devServer/privateKey.key
