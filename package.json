@@ -6,7 +6,8 @@
     "dev": "nodemon",
     "build": "next build",
     "start": "cross-env NODE_ENV=production NODE_ICU_DATA=./node_modules/full-icu next start -p 80",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint --ext .jsx,.js,.ts,.tsx ./ --fix --quiet"
   },
   "dependencies": {
     "@e-group/hooks": "^7.3.1",
